@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "ForEachAJollyGoodFellow/1.0.0": {
+        "runtime": {
+          "ForEachAJollyGoodFellow.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ForEachAJollyGoodFellow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
