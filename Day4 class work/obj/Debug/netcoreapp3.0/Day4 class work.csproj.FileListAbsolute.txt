@@ -1,0 +1,11 @@
+C:\Users\Holmes HQ\source\repos\Day4 class work\Day4 class work\bin\Debug\netcoreapp3.0\Day4 class work.exe
+C:\Users\Holmes HQ\source\repos\Day4 class work\Day4 class work\bin\Debug\netcoreapp3.0\Day4 class work.deps.json
+C:\Users\Holmes HQ\source\repos\Day4 class work\Day4 class work\bin\Debug\netcoreapp3.0\Day4 class work.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\Day4 class work\Day4 class work\bin\Debug\netcoreapp3.0\Day4 class work.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\Day4 class work\Day4 class work\bin\Debug\netcoreapp3.0\Day4 class work.dll
+C:\Users\Holmes HQ\source\repos\Day4 class work\Day4 class work\bin\Debug\netcoreapp3.0\Day4 class work.pdb
+C:\Users\Holmes HQ\source\repos\Day4 class work\Day4 class work\obj\Debug\netcoreapp3.0\Day4 class work.csprojAssemblyReference.cache
+C:\Users\Holmes HQ\source\repos\Day4 class work\Day4 class work\obj\Debug\netcoreapp3.0\Day4 class work.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\Day4 class work\Day4 class work\obj\Debug\netcoreapp3.0\Day4 class work.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\Day4 class work\Day4 class work\obj\Debug\netcoreapp3.0\Day4 class work.dll
+C:\Users\Holmes HQ\source\repos\Day4 class work\Day4 class work\obj\Debug\netcoreapp3.0\Day4 class work.pdb

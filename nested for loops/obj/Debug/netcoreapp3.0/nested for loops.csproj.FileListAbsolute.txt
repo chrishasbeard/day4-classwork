@@ -1,0 +1,10 @@
+C:\Users\Holmes HQ\source\repos\Day4 class work\nested for loops\bin\Debug\netcoreapp3.0\nested for loops.exe
+C:\Users\Holmes HQ\source\repos\Day4 class work\nested for loops\bin\Debug\netcoreapp3.0\nested for loops.deps.json
+C:\Users\Holmes HQ\source\repos\Day4 class work\nested for loops\bin\Debug\netcoreapp3.0\nested for loops.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\Day4 class work\nested for loops\bin\Debug\netcoreapp3.0\nested for loops.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\Day4 class work\nested for loops\bin\Debug\netcoreapp3.0\nested for loops.dll
+C:\Users\Holmes HQ\source\repos\Day4 class work\nested for loops\bin\Debug\netcoreapp3.0\nested for loops.pdb
+C:\Users\Holmes HQ\source\repos\Day4 class work\nested for loops\obj\Debug\netcoreapp3.0\nested for loops.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\Day4 class work\nested for loops\obj\Debug\netcoreapp3.0\nested for loops.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\Day4 class work\nested for loops\obj\Debug\netcoreapp3.0\nested for loops.dll
+C:\Users\Holmes HQ\source\repos\Day4 class work\nested for loops\obj\Debug\netcoreapp3.0\nested for loops.pdb

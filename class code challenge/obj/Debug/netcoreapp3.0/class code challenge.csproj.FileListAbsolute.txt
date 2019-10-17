@@ -1,0 +1,11 @@
+C:\Users\Holmes HQ\source\repos\Day4 class work\class code challenge\bin\Debug\netcoreapp3.0\class code challenge.exe
+C:\Users\Holmes HQ\source\repos\Day4 class work\class code challenge\bin\Debug\netcoreapp3.0\class code challenge.deps.json
+C:\Users\Holmes HQ\source\repos\Day4 class work\class code challenge\bin\Debug\netcoreapp3.0\class code challenge.runtimeconfig.json
+C:\Users\Holmes HQ\source\repos\Day4 class work\class code challenge\bin\Debug\netcoreapp3.0\class code challenge.runtimeconfig.dev.json
+C:\Users\Holmes HQ\source\repos\Day4 class work\class code challenge\bin\Debug\netcoreapp3.0\class code challenge.dll
+C:\Users\Holmes HQ\source\repos\Day4 class work\class code challenge\bin\Debug\netcoreapp3.0\class code challenge.pdb
+C:\Users\Holmes HQ\source\repos\Day4 class work\class code challenge\obj\Debug\netcoreapp3.0\class code challenge.csprojAssemblyReference.cache
+C:\Users\Holmes HQ\source\repos\Day4 class work\class code challenge\obj\Debug\netcoreapp3.0\class code challenge.AssemblyInfoInputs.cache
+C:\Users\Holmes HQ\source\repos\Day4 class work\class code challenge\obj\Debug\netcoreapp3.0\class code challenge.AssemblyInfo.cs
+C:\Users\Holmes HQ\source\repos\Day4 class work\class code challenge\obj\Debug\netcoreapp3.0\class code challenge.dll
+C:\Users\Holmes HQ\source\repos\Day4 class work\class code challenge\obj\Debug\netcoreapp3.0\class code challenge.pdb
